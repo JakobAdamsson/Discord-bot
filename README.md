@@ -28,6 +28,7 @@ Head over to Discord's [developer](https://discord.com/developers/applications) 
 
 
 __Set up the discord environment on your computer__:
+
 First off, create a new folder somewhere on your computer and open it with your text editor. Create a new file called bot.py. Once inside bot.py, paste the code i have provided within this repository, or write new on your own. Please note that its very important that you provide the script with your token.
 
 You should now be ready to run the bot, to run the bot type:
