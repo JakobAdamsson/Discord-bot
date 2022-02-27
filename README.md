@@ -37,4 +37,4 @@ python3 bot.py
 ```
 in the console.
 
-__Author Jakob Adamsson :)__
+__Author Jakob Adamsson :) :)__
